@@ -16,9 +16,7 @@
 			<configuration>
                 <fork>true</fork>
                 <executable>E:\java\bin\javac.exe</executable>
-            </configuration>
-			<configuration>
-                <source>1.8</source>
+				<source>1.8</source>
                 <target>1.8</target>
             </configuration>
 		</plugin>
