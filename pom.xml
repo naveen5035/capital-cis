@@ -11,8 +11,8 @@
 	<plugins>
 		<plugin>
 			<groupId>org.apache.maven.plugins </groupId>
-			<artifactId>maven-compiler-plugin</artifactId>
-			<version>3.5.4</version>
+			<artifactId>maven-compiler-plugin </artifactId>
+			<version>default </version>
 			<configuration>
                 <fork>true</fork>
                 <executable>E:\java\bin\javac.exe</executable>
